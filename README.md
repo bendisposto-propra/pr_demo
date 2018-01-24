@@ -1,1 +1,1 @@
-# Demo Repository um den Github PR Prozess zu demonstrieren
+# Demo Repository um den GitHub PR Prozess zu demonstrieren
